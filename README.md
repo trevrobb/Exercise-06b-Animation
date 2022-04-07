@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/MWV7BwZKxo8](https://youtu.be/MWV7BwZKxo8)
+
 ---
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06b-Animation. Edit the LICENSE and replace BL-MSCH-C220-S22 with your full name. Commit your changes.
